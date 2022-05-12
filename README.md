@@ -1,14 +1,17 @@
 # Function_Plotter
-Program to graph functions. you just enter the function f(x), then you enter maximum and minimum value of x. The program will show the graph of your function
+GUI Program to graph functions. you just enter the function f(x), then you enter maximum and minimum value of x. The program will show the graph of your function
 # Examples 
-![1](https://user-images.githubusercontent.com/79233488/147600591-7dc58bf7-7a01-401e-bebb-eb091264c2a4.PNG)
+![1](https://github.com/MahmoudShawkyy/Function_Plotter/blob/main/Examples/1.jpeg)
 
 
-![3](https://user-images.githubusercontent.com/79233488/147601388-378723bf-c3cb-4fd0-8733-bd4a02575145.PNG)
+![2](https://github.com/MahmoudShawkyy/Function_Plotter/blob/main/Examples/2.jpeg)
 
-# Wrong example
-![wrong](https://user-images.githubusercontent.com/79233488/147601752-47c88781-4069-46d7-b25b-e31afd151a2c.PNG)
+# Wrong inputs
+![3](https://github.com/MahmoudShawkyy/Function_Plotter/blob/main/Examples/3.jpeg)
 
-# After editing
+![5](https://github.com/MahmoudShawkyy/Function_Plotter/blob/main/Examples/5.jpeg)
 
-![image](https://user-images.githubusercontent.com/79233488/147601890-4475bea6-262b-4d57-b526-79bff170fa6f.png)
+# After editing input
+![4](https://github.com/MahmoudShawkyy/Function_Plotter/blob/main/Examples/4.jpeg)
+
+![6](https://github.com/MahmoudShawkyy/Function_Plotter/blob/main/Examples/6.jpeg)
